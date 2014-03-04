@@ -10,9 +10,11 @@ GEM
     sawyer (0.5.3)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
+    test-unit (2.5.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   octokit
+  test-unit
